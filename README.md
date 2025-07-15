@@ -10,7 +10,7 @@
     <style>
         :root {
             --primary-color: #2E8B57;
-            --primary-color-hover: #3a9a66;
+            --primary-color-hover: #3a9a66; 
             --primary-color-dark: #2d5e47;
             --primary-color-dark-hover: #26503d;
             --primary-color-rgb: 46, 139, 87;
