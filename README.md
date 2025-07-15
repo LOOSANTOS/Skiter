@@ -1,2 +1,3 @@
 # Skiter
 Doug
+Sou arquiteto/urbanista e Analista de Sistemas...
