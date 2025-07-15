@@ -1,6 +1,3 @@
-# Skiter
-Doug
-Sou arquiteto/urbanista e Analista de Sistemas...
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
